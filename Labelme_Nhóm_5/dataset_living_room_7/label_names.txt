@@ -1,0 +1,23 @@
+_background_
+ban
+ban 2
+ban 3
+ban 4
+cau thang
+cay 1
+cay 2
+den
+den 2
+den 3
+den 4
+goi
+khung tranh
+rem cua
+sofa 1
+sofa 2
+sofa 3
+sofa 4
+tham
+trang tri
+trang tri 1
+tv

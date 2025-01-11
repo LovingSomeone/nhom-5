@@ -1,0 +1,19 @@
+_background_
+am li 1
+am li 2
+am li 3
+cay 1
+cay 2
+chau 1
+chau 2
+den 1
+den 2
+den 3
+den 4
+ngan keo 1
+ngan keo 2
+trang tri 1
+trang tri 2
+trang tri 3
+trang tri 4
+tv
